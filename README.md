@@ -1,4 +1,4 @@
 # 데이터 분석 기초(모두의 데이터 분석)
-참고한 책: 모두의 데이터 분석
-참고한 사이트: [앨리스](https://academy.elice.io/explore)
+참고한 책: 모두의 데이터 분석<br>
+참고한 사이트: [앨리스](https://academy.elice.io/explore)<br>
 데이터 출처: [공공데이터 포털](https://www.data.go.kr/)
